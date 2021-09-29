@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.user_data {
+  display: flex;
+}
+.data {
+  flex: 1;
+}
+.heading {
+  display: flex;
+}
+.heading_data {
+  flex: 1;
+}

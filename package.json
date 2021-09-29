@@ -1,0 +1,27 @@
+{
+  "name": "nemesis_consultants_llp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam1code/Nemesis_Consultants_LLP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sam1code/Nemesis_Consultants_LLP/issues"
+  },
+  "homepage": "https://github.com/sam1code/Nemesis_Consultants_LLP#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
