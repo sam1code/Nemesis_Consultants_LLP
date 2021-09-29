@@ -65,7 +65,7 @@ const App = () => {
   console.log(users);
   return (
     <div className="App">
-      <h2>Data CRUD</h2>
+      <h2>JSON PLACE HOLDER</h2>
       <br />
       <Adduser onAdd={onAdd} />
       <Heading />
